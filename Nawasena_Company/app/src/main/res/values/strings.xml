@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Nawasena_Company</string>
+    <string name="title">Explore Sleman</string>
+    <string name="fieldTitle1">Nominal</string>
+    <string name="fieldTitle2">Personil</string>
+
+    <string name="search">Cari</string>
+    <string name="nominal">Masukkan Nominal</string>
+    <string name="personal">Masukkan Personil</string>
+    <string name="login">Log in</string>
+    <string name="or">Or</string>
+    <string name="signUp">Sign Up</string>
+    <string name="profile">Profil</string>
+    <string name="history">Riwayat</string>
+
+    <string name="empty"> </string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <string name="Tours1">Paket #1 Tour\nKlangon Merapi</string>
+    <string name="Tours2">Paket #2 Tour\nWord Castle</string>
+    <string name="Tours3">Paket #3 Tour\nPunokawan</string>
+    <string name="Tours4">Paket #4 Tour\nLava Tour Merapi</string>
+    <string name="Tours5">Paket #5 Tour\nCandi Sambisari</string>
+
+    <string name="rating1">10/10</string>
+    <string name="rating2">9.5/10</string>
+    <string name="rating3">9/10</string>
+    <string name="rating4">8/10</string>
+    <string name="rating5">7/10</string>
+
+    <string name="ratingAmount1">(453)</string>
+    <string name="ratingAmount2">(192)</string>
+    <string name="ratingAmount3">(213)</string>
+    <string name="ratingAmount4">(411)</string>
+    <string name="ratingAmount5">(221)</string>
+
+    <string name="passHolder">Masukkan Password</string>
+    <string name="userHolder">Masukkan Username</string>
+    <string name="phoneHolder">Masukkan No Handphone</string>
+    <string name="emailHolder">Masukkan Email</string>
+
+    <string name="rupiah">Rp. %d</string>
+    <string name="recommend">Berikut Rekomendasi Paket Wisata Anda</string>
+    <string name="command">Silahkan masukkan data</string>
+
+    <string name="email">Email</string>
+    <string name="handpone">No Handphone</string>
+    <string name="notif">Anda perlu Log in</string>
+
+    <string name="profileTitle1">Nama Pengguna</string>
+    <string name="profileTitle2">Alamat Email</string>
+    <string name="profileTitle3">No Handphone</string>
+
+    <string name="profileValue1">Ateng Surateng</string>
+    <string name="profileValue2">surateng@Gmail.com</string>
+    <string name="profileValue3">0813-2525-8349</string>
+
+
+</resources>
